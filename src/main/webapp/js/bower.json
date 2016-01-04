@@ -1,0 +1,24 @@
+{
+  "name": "base",
+  "authors": [
+    "wenesay <girish.naik@gmail.com>"
+  ],
+  "description": "polymer for base project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.7",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.7",
+    "gold-elements": "PolymerElements/gold-elements#~1.0.1"
+  }
+}
