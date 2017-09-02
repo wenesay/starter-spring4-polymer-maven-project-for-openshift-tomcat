@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sample.package.config;
+package example.config;
 
 import javax.servlet.FilterRegistration;
 import javax.servlet.ServletContext;

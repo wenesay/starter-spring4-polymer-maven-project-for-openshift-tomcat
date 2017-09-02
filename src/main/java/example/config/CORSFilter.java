@@ -1,4 +1,4 @@
-package sample.package.config;
+package example.config;
 
 import java.io.IOException;
 

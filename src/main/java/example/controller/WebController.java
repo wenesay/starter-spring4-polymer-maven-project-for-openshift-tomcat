@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sample.package.controller;
+package example.controller;
 
 import java.util.Collections;
 import java.util.Map;
@@ -11,8 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import in.wenesay.model.Message;
+import example.model.Message;
 
 /**
  * @author Girishn
