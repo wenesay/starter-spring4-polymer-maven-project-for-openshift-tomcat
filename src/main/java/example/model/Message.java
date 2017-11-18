@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sample.package.model;
+package example.model;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

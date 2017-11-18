@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sample.package.config;
+package example.config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;
@@ -22,7 +22,7 @@ import org.springframework.web.servlet.view.JstlView;
  */
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "sample.package")
+@ComponentScan(basePackages = "example")
 public class WebConfiguration extends WebMvcConfigurerAdapter{
 	/*
 	 * Configure View Resolver
