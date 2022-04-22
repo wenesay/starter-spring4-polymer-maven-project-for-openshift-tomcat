@@ -17,7 +17,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
-		<springframework.version>5.3.18</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<jackson.mapper.version>1.9.13</jackson.mapper.version>
 		<jackson.version>2.12.6.1</jackson.version>
 	</properties>
